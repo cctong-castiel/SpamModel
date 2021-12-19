@@ -1,0 +1,8 @@
+{
+    "max_num": 2000,
+    "dimension": 3,
+    "sampler": null,
+    "y_col": "ylabel",
+    "m_flag": "macro",
+    "zip_type": ".tar.gz"
+}

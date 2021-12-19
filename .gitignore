@@ -1,0 +1,9 @@
+.env
+__pycache__
+src/lib/__pycache__
+/spamModels/**
+src/data/*
+!src/data/.gitkeep
+test/*
+*.git
+*.log*

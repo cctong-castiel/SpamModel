@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  spammodel:
+    image: spam
+    build: .
+    environment:
+      PORT: 721
+      SANIC_WORKERS: 2
+    ports:
+      - 8001:721
+    restart: always
+    shm_size: 2G
