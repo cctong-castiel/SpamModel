@@ -1,5 +1,6 @@
 .env
 __pycache__
+.github/wordflows/prod.yml
 src/lib/__pycache__
 /spamModels/**
 src/data/*
